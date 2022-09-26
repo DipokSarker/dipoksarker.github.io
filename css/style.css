@@ -1,3 +1,10 @@
 body{
     font-family: 'Atma', cursive;
 }
+
+.banner-container {
+    background-color:#CBCACC;
+}
+.banner-column {
+    background-color: #8E8D8E;
+}
