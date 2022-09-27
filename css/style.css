@@ -28,13 +28,16 @@ body{
 .bg-redtype{
     background-color: #FB8580;
 }
+.bg-redtype:hover{
+    color: black!important;
+}
 
 .redtype-color{
     color: #FB8580;
 }
 
-.circle{
-    background-color: #FB8580;
+.circle-edu{
+    background-color: orange;
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -49,5 +52,24 @@ body{
 }
 
 .inner-form{
+    background-color: #50586F;
+}
+
+.footer{
+    background-color: #21A7E5;
+}
+
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: #21A8E3;
+}
+
+.circle:hover{
     background-color: #50586F;
 }
